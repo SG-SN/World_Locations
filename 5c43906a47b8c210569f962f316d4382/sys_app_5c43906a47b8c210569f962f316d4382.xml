@@ -22,7 +22,7 @@
         <runtime_access_tracking>permissive</runtime_access_tracking>
         <scope>x_207260_world_l_0</scope>
         <scoped_administration>false</scoped_administration>
-        <short_description>Contains the data of all locations of world</short_description>
+        <short_description>This app contains the data of all locations of world</short_description>
         <source>x_207260_world_l_0</source>
         <store_correlation_id/>
         <store_url/>
@@ -32,9 +32,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-03-10 07:03:42</sys_created_on>
         <sys_id>5c43906a47b8c210569f962f316d4382</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-03-10 07:53:26</sys_updated_on>
+        <sys_updated_on>2024-03-10 07:58:33</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
