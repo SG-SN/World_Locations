@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="778024ee477cc210569f962f316d4399" extends="sys_import_set_row" label="uscities.xlsx (Uploaded)" max_length="40" name="x_207260_world_l_0_1710054503335" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=city" label="city" max_length="44" name="u_city" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=city_ascii" label="city_ascii" max_length="44" name="u_city_ascii" type="string"/>
+        <element attributes="import_attribute_name=county_fips" label="county_fips" max_length="40" name="u_county_fips" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=county_name" label="county_name" max_length="40" name="u_county_name" type="string"/>
+        <element attributes="import_attribute_name=density" label="density" max_length="15" name="u_density" type="decimal"/>
+        <element attributes="import_attribute_name=id" label="id" max_length="40" name="u_id" type="float"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=incorporated" label="incorporated" max_length="40" name="u_incorporated" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=lat" label="lat" max_length="40" name="u_lat" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=lng" label="lng" max_length="40" name="u_lng" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=military" label="military" max_length="40" name="u_military" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=population" label="population" max_length="40" name="u_population" type="string"/>
+        <element attributes="import_attribute_name=ranking" label="ranking" max_length="40" name="u_ranking" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=source" label="source" max_length="40" name="u_source" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=state_id" label="state_id" max_length="40" name="u_state_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=state_name" label="state_name" max_length="40" name="u_state_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=timezone" label="timezone" max_length="40" name="u_timezone" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=zips" label="zips" max_length="1847" name="u_zips" type="string"/>
+    </element>
+</database>

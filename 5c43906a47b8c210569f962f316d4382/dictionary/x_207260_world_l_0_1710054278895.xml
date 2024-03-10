@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7e6064ae477cc210569f962f316d43a6" extends="sys_import_set_row" label="canadacities.xlsx (Uploaded)" max_length="40" name="x_207260_world_l_0_1710054278895" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=city" label="city" max_length="43" name="u_city" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=city_ascii" label="city_ascii" max_length="43" name="u_city_ascii" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=density" label="density" max_length="40" name="u_density" type="string"/>
+        <element attributes="import_attribute_name=id" label="id" max_length="40" name="u_id" type="float"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=lat" label="lat" max_length="40" name="u_lat" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=lng" label="lng" max_length="40" name="u_lng" type="string"/>
+        <element attributes="import_attribute_name=population" label="population" max_length="40" name="u_population" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=postal" label="postal" max_length="383" name="u_postal" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=province_id" label="province_id" max_length="40" name="u_province_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=province_name" label="province_name" max_length="40" name="u_province_name" type="string"/>
+        <element attributes="import_attribute_name=ranking" label="ranking" max_length="40" name="u_ranking" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=timezone" label="timezone" max_length="40" name="u_timezone" type="string"/>
+    </element>
+</database>
