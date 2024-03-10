@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4845d8ee47b8c210569f962f316d436b" label="US Cities" max_length="40" name="x_207260_world_l_0_us_cities" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="City" max_length="100" name="city" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="City ASCII" max_length="100" name="city_ascii" type="string"/>
+        <element label="County Fips" max_length="40" name="county_fips" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="County Name" max_length="40" name="county_name" type="string"/>
+        <element label="Density" max_length="38" name="density" type="decimal"/>
+        <element label="Id" max_length="40" name="id" type="float"/>
+        <element attributes="edge_encryption_enabled=true" label="Incorporated" max_length="40" name="incorporated" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Lat" max_length="40" name="lat" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Lng" max_length="40" name="lng" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Military" max_length="40" name="military" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Population" max_length="40" name="population" type="string"/>
+        <element label="rRanking" max_length="40" name="rranking" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Source" max_length="40" name="source" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="State Id" max_length="40" name="state_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="State Name" max_length="40" name="state_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Timezone" max_length="40" name="timezone" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Zips" max_length="1847" name="zips" type="string"/>
+    </element>
+</database>

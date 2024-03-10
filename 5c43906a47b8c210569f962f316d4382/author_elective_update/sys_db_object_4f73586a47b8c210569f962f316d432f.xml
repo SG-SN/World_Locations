@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access/>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>World L 0 1710054278895</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_207260_world_l_0_1710054278895</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Import Set Row" name="sys_import_set_row">57fa80e0d9313110cedf7dffddb48f89</super_class>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-10 07:04:43</sys_created_on>
+        <sys_id>4f73586a47b8c210569f962f316d432f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>World L 0 1710054278895</sys_name>
+        <sys_package display_value="World Locations" source="x_207260_world_l_0">5c43906a47b8c210569f962f316d4382</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="World Locations">5c43906a47b8c210569f962f316d4382</sys_scope>
+        <sys_update_name>sys_db_object_4f73586a47b8c210569f962f316d432f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-10 07:04:43</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="World Locations">5c43906a47b8c210569f962f316d4382</application>
+        <file_path/>
+        <instance_id>67de33aa1b26bd50c84543f4bd4bcb9e</instance_id>
+        <instance_name>dev218032</instance_name>
+        <name>sys_db_object_4f73586a47b8c210569f962f316d432f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access/><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><is_extendable>false</is_extendable><label>World L 0 1710054278895</label><live_feed_enabled>false</live_feed_enabled><name>x_207260_world_l_0_1710054278895</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="Import Set Row" name="sys_import_set_row">57fa80e0d9313110cedf7dffddb48f89</super_class><sys_class_name>sys_db_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-10 07:04:43</sys_created_on><sys_id>4f73586a47b8c210569f962f316d432f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>World L 0 1710054278895</sys_name><sys_package display_value="World Locations" source="x_207260_world_l_0">5c43906a47b8c210569f962f316d4382</sys_package><sys_policy/><sys_scope display_value="World Locations">5c43906a47b8c210569f962f316d4382</sys_scope><sys_update_name>sys_db_object_4f73586a47b8c210569f962f316d432f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-10 07:04:43</sys_updated_on><update_access>false</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>-1288674562</payload_hash>
+        <record_name>World L 0 1710054278895</record_name>
+        <reverted_from/>
+        <source>d443906a47b8c210569f962f316d4385</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-10 07:04:44</sys_created_on>
+        <sys_id>5373586a47b8c210569f962f316d4377</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e272d9cd90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-10 07:04:44</sys_updated_on>
+        <type>Table</type>
+        <update_guid>9773586a5db8c210c48335e0f3710976</update_guid>
+        <update_guid_history>9773586a5db8c210c48335e0f3710976:-1288674562</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-10 07:07:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>00b4b34a3317462480bc01014a9a8904</sys_id>
+        <sys_metadata>4f73586a47b8c210569f962f316d432f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>World L 0 1710054278895</sys_name>
+        <sys_package display_value="World Locations" source="x_207260_world_l_0">5c43906a47b8c210569f962f316d4382</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="World Locations">5c43906a47b8c210569f962f316d4382</sys_scope>
+        <sys_scope_delete display_value="">8f4dd083694248c8b6f0ddd802a053d1</sys_scope_delete>
+        <sys_update_name>sys_db_object_4f73586a47b8c210569f962f316d432f</sys_update_name>
+        <sys_update_version display_value="sys_db_object_4f73586a47b8c210569f962f316d432f">5373586a47b8c210569f962f316d4377</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-10 07:07:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

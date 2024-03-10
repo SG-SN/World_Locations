@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="190490ea47b8c210569f962f316d4347" label="Canada Cities" max_length="40" name="x_207260_world_l_0_canada_cities" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="City" max_length="100" name="city" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="City ASCII" max_length="100" name="city_ascii" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Density" max_length="40" name="density" type="string"/>
+        <element label="ID" max_length="40" name="id" type="float"/>
+        <element attributes="edge_encryption_enabled=true" label="Lat" max_length="40" name="lat" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Lng" max_length="40" name="lng" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Population" max_length="40" name="population" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Postal" max_length="383" name="postal" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Province Id" max_length="40" name="province_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Province Name" max_length="100" name="province_name" type="string"/>
+        <element label="Ranking" max_length="40" name="ranking" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Timezone" max_length="40" name="timezone" type="string"/>
+    </element>
+</database>
